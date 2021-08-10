@@ -1,0 +1,5 @@
+node_modules
+.vscode
+temp
+temp.js
+user.json

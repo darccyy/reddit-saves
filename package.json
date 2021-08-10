@@ -1,0 +1,22 @@
+{
+  "name": "reddit-saves",
+  "version": "1.0.0",
+  "description": "Open all saved images on reddit profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darccyy/reddit-saves.git"
+  },
+  "author": "darcy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darccyy/reddit-saves/issues"
+  },
+  "homepage": "https://github.com/darccyy/reddit-saves#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
